@@ -10,5 +10,7 @@ public class Main {
         String string1 = "Peter";
         String string2 = "Paul";
         String string3 = "Mary";
+
+        System.out.println("Hello Word" );
     }
 }
